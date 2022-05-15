@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
+
+:root{
+    --main-color: #0d0cb5;
+    --secondary-color: #587cec;
+    box-sizing: border-box;
+}
+h2, h3, h4, h5, h6, .title{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    font-family: 'Open Sans', sans-serif !important;
+}
